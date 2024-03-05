@@ -1,0 +1,12 @@
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\bin\Debug\ProductDB.mdf
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\bin\Debug\ProductDB_log.ldf
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\bin\Debug\Alex-Carter-CPT-206-Homework-Lab1.exe.config
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\bin\Debug\Alex-Carter-CPT-206-Homework-Lab1.exe
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\bin\Debug\Alex-Carter-CPT-206-Homework-Lab1.pdb
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex-Carter-CPT-206-Homework-Lab1.csproj.AssemblyReference.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex_Carter_CPT_206_Homework_Lab1.Form1.resources
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex_Carter_CPT_206_Homework_Lab1.Properties.Resources.resources
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex-Carter-CPT-206-Homework-Lab1.csproj.GenerateResource.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex-Carter-CPT-206-Homework-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex-Carter-CPT-206-Homework-Lab1.exe
+C:\Users\Alex A.K.A. Daddy\source\repos\Alex-Carter-CPT-206-Homework-Lab1\obj\Debug\Alex-Carter-CPT-206-Homework-Lab1.pdb
